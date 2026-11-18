@@ -176,5 +176,21 @@
     "version": "1.1.1",
     "url": "https://gcore.jsdelivr.net/gh/lldaydayhappy/venera-sources@main/mycomic.js",
     "description": "mycomic.com漫画源, 遇到Cloudflare验证请在源设置中登录"
+  },
+  {
+    "name": "快看漫画",
+    "fileName": "kuaikanmanhua.js",
+    "key": "kuaikanmanhua",
+    "version": "1.0.0",
+    "url": "https://gcore.jsdelivr.net/gh/handahao666-boop/venera_comic_source@main/kuaikanmanhua.js",
+    "description": "由 Keiyoushi 的 Mihon 扩展转换为 Venera 漫画源；付费/VIP 章节不可读"
+  },
+  {
+    "name": "腾讯漫画",
+    "fileName": "acqq.js",
+    "key": "acqq",
+    "version": "1.0.0",
+    "url": "https://gcore.jsdelivr.net/gh/token1008/venera-cn-64bit@main/sources-direct/acqq.js",
+    "description": "腾讯动漫；实测国内直连；仅免费章节可读，VIP/付费章节不可读"
   }
 ]
